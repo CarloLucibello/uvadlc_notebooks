@@ -1,5 +1,42 @@
-UvA Deep Learning Tutorials
-===========================
+# UvA Deep Learning Tutorials translated to Julia + Flux
+
+This is a fork of the repository https://github.com/phlippe/uvadlc_notebooks.
+
+The `julia_tutorials/` folder contains Julia translations
+of the notebooks from the [UvA Deep Learning Tutorials](https://uvadlc.github.io/).
+The original notebooks, written in python+PyTorch, can be found in `docs/tutorial_notebooks/`.
+
+In the translation, we use the [Flux.jl](https://fluxml.ai/Flux.jl/stable/) and the [FluxML](https://fluxml.ai/) ecosystem as a replacement for PyTorch, and we use [Tsunami.jl](https://github.com/CarloLucibello/Tsunami.jl) as a replacement for PyTorch Lightning.
+
+We tried to preserve the structure of the original notebooks as much as possible.
+
+## Porting status
+
+- [x] Tutorial 2: Introduction to PyTorch -> Introduction to Flux
+   - [ ] Last section on TensorBoard logging
+- [ ] Tutorial 3: Activation functions
+- [ ] Tutorial 4: Optimization and Initialization
+- [ ] Tutorial 5: Inception, ResNet and DenseNet
+- [ ] Tutorial 6: Transformers and Multi-Head Attention
+- [ ] Tutorial 7: Graph Neural Networks
+- [ ] Tutorial 8: Deep Energy Models
+- [ ] Tutorial 9: Variational Autoencoders
+- [ ] Tutorial 10: Generative Adversarial Networks
+- [ ] Tutorial 11: Self-Supervised Learning
+- [ ] Tutorial 12: Reinforcement Learning
+- [ ] Tutorial 13: Adversarial Robustness
+- [ ] Tutorial 14: Federated Learning
+- [ ] Tutorial 15: Meta Learning
+- [ ] Tutorial 16: Bayesian Neural Networks
+
+
+
+
+
+
+Below starts the README file from the original repo.
+
+# UvA Deep Learning Tutorials
 
 *Note: To look at the notebooks in a nicer format, visit our RTD website: https://uvadlc-notebooks.readthedocs.io/en/latest/*
 

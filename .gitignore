@@ -14,3 +14,6 @@ docs/tutorial_notebooks/DL2/Geometric_deep_learning/mnist*
 docs/tutorial_notebooks/DL2/deep_probabilistic_models_I/blog-authorship.json
 docs/test_build.sh
 .DS_Store
+.vscode/
+Manifest.toml
+.bson
