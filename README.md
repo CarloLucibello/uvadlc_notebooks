@@ -13,7 +13,7 @@ We tried to preserve the structure of the original notebooks as much as possible
 ## Porting status
 
 - [x] Tutorial 2: Introduction to PyTorch -> Introduction to Flux
-   - [ ] Last section on TensorBoard logging
+   - [ ] port last section on TensorBoard logging
 - [ ] Tutorial 3: Activation functions
 - [ ] Tutorial 4: Optimization and Initialization
 - [ ] Tutorial 5: Inception, ResNet and DenseNet
